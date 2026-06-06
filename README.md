@@ -102,7 +102,7 @@ $csc = 'C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe'
 
 - 初始语言包思路和部分前端中文资源参考了公开 GitHub 项目 `javaht/claude-desktop-zh-cn`：https://github.com/javaht/claude-desktop-zh-cn
 - 该项目说明其用途是 Claude Desktop 中文界面补丁，支持简体中文和繁体中文。
-- 本地版本在此基础上做了二次整理和自然化润色，包括 Windows Store 路径定位、权限处理、缓存清理、Claude 新版前端 chunk 修补、中文会话标题生成提示、统计面板书籍示例、用词统一和 WinForms 一键修复工具。
+- 本工具在此基础上做了二次整理和自然化润色，包括 Windows Store 路径定位、权限处理、缓存清理、Claude 新版前端 chunk 修补、中文会话标题生成提示、统计面板书籍示例、用词统一和 WinForms 一键修复工具。
 - 本工具与 Anthropic / Claude 官方无关，只是本地资源修补工具。
 - 如果计划公开发布或再分发，请先核对上游项目的许可证和授权状态，并保留来源声明。
 
